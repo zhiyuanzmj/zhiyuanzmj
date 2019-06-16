@@ -1,37 +1,39 @@
-## Welcome to ZMJ Pages
+*本教程使用的是小米手机 其他安卓手机也是类似操作。*﻿
 
-You can use the [editor on GitHub](https://github.com/zhiyuanzmj/zhiyuanzmj/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+###首先登录 [琢飞Cloud官网](https://www.allssr.com)  ﻿
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. 登录成功后 往下拉 找到下载安卓版本的 地址﻿
 
-### Markdown
+![](https://upload-images.jianshu.io/upload_images/13299410-94928b9aa40fb2fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)﻿
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. 往下拉 复制订阅地址 每个账号的订阅地址都是独一无二的 请确保该地址不要泄漏 否则针对该账号流量的不可控消耗 由用户自行承担﻿
 
-```markdown
-Syntax highlighted code block
+![复制订阅地址](https://upload-images.jianshu.io/upload_images/13299410-f4f328dca63ee219.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)﻿
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+3. 找到下载后的客户端安装包 安装后打开﻿
 
-**Bold** and _Italic_ and `Code` text
+![客户端默认会有一个配置 这个配置不能使用 所以下面我们需要手动设置](https://upload-images.jianshu.io/upload_images/13299410-dc54f95c44ec593f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)﻿
 
-[Link](url) and ![Image](src)
-```
+3. 删除默认节点 然后开始添加订阅﻿
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![](https://upload-images.jianshu.io/upload_images/13299410-b9c03cf5c7435373.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)﻿
 
-### Jekyll Themes
+![](https://upload-images.jianshu.io/upload_images/13299410-17e211cf8913bd27.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)﻿
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhiyuanzmj/zhiyuanzmj/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![](https://upload-images.jianshu.io/upload_images/13299410-3ed2bec12eda8bcc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)﻿
 
-### Support or Contact
+![](https://upload-images.jianshu.io/upload_images/13299410-29c43cfbf0e3c8e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)﻿
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](https://upload-images.jianshu.io/upload_images/13299410-93ea7c9b13aafdd9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)﻿
+
+4. 选择节点﻿
+
+![](https://upload-images.jianshu.io/upload_images/13299410-9b00d034cca051db.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)﻿
+
+5. 最后一步 这里的路由默认是全局 会导致国内应用也会被代理 导致国内应用网速变慢 所以一定要选择 绕过局域网及大陆地址﻿
+
+![](https://upload-images.jianshu.io/upload_images/13299410-433208d97f2306fc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)﻿
+
+>其他系统教程：
